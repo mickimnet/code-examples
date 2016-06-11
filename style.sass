@@ -1,0 +1,23 @@
+$blue: #3bbfce
+$margin: 16px
+$noise-bg: image-url('noise.png') top left !default
+$img-border: inline-image('dotted-border.png')
+.border
+  padding: $margin / 2
+  border-color: $blue
+li
+  font:
+    family: serif
+    weight: bold
+    size: 1.2em
+@mixin table-base
+  th
+    ext-align: center
+   font-weight: bold
+#data
+  @include left(10px)
+  @include table-base
+aside.sidebar a:hover
+  @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active)
+html
+  background: $page-bg image-url('tile.png') top left

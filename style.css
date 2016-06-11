@@ -1,0 +1,32 @@
+/* -- test style.css --------------------------- */
+@import url("basic.css");
+@font-face {
+	font-family: "League Gothic";
+	src: url('fonts/League-Gothic-webfont.ttf');
+}
+a.headerlink:hover {
+	background-color: #c60f0f;
+	color: white;
+}
+#id ul {
+	-webkit-margin-before: 0;
+	-moz-margin-before: 0;
+	list-style-type: none;
+}
+body {
+	color: #666666;
+	box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+	background-image: url(images/bg_page.png);
+	color: hsla(0, 0%, 40%, 1);
+	font-size: 3em;
+	font-family: 'Gravitas One', 'Arial', serif;
+	font-weight: normal;
+}
+div.viewcode-block:target {
+  width: 80%;
+	background-color: #f4debf;
+	border-top: 1px solid #ac9;
+}
+a:hover {
+	text-decoration: underline;
+}

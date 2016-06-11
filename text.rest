@@ -1,0 +1,54 @@
+.. Simple reStructuredText syntax highlight text
+
+:Author: Jody Lynn Nye
+:Version: $Revision: 2013$
+:Copyright: This document is copyrighted by the author.
+
+.. image:: http://mythadventures.net/wp-content/uploads/2014/05/Untitled-11.jpg
+
+About the series
+----------------
+
+The Myth Adventures series of **humorous** fantasy novels began in 1978 with "``Another Fine Myth``". Over the next 24 years Bob_ wrote eleven more books in the series. You can see the covers in their currently available editions on our `Cover Gallery <http://mythadventures.net/cover-art/>`_ page.
+
+Chronology
+----------
+
+1. *Another Fine Myth* (1978)
+2. *Myth Conceptions* (1980)
+3. *Myth Directions* (1982)
+
+::
+  In 2003, Bob started working with Jody Lynn Nye, with whom he had written one previous novel, "``License Invoked``" (Baen Books, 2001).
+    Since then, Bob and Jody have written six more Myth Adventures novels and nine short stories.
+
++-------------------+-----------------------------+
+|     Publishers    |         Bookbinding         |
++===================+=============================+
+| Donning Starblaze | hard-cover, trade paperback |
++-------------------+-----------------------------+
+| Ace Books         |    mass market paperback    |
++-------------------+-----------------------------+
+| Meisha Merlin     | hard-cover, trade paperback |
++-------------------+-----------------------------+
+| Wildside Press    |       trade paperback       |
++-------------------+-----------------------------+
+
+.. code:: python
+    import random
+    class CardGame(object):
+        NB_CARDS = 32
+        def __init__(self, cards=5):
+            self.cards=random.sample(range(self.N))
+            print 'ready to play'
+
+Todo
+~~~~
+
+* [x] Check for accuracy
+* [ ] Check ~~strikethrough~~ &amp; source-code
+* [ ] Add more content
+
+------------
+.. _Bob: http://mythadventures.net/robert-asprin-memorial-page/
+.. _image: http://mythadventures.net/wp-content/uploads/2014/05/Untitled-11.jpg

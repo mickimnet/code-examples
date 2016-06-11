@@ -1,0 +1,21 @@
+#new-event-overlay
+.content-wrapper.main-wrapper
+  = link_to "", new_calendar_event_path, class: 'new'
+  .calendar-controls
+    .group
+      %h4
+        %a#day-switch
+          Tag
+    .group
+      %h4
+        %a#week-switch
+          Woche
+    .group
+      %h4
+        %a#month-switch
+          Monat
+  #calendar
+
+:coffeescript
+  $(document).ready ->
+    window.app.calendar = new Leopold.Calendar()

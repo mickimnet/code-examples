@@ -20,9 +20,8 @@ As my knowledge of programming languages is limited, I published my work so far 
 
 ## Contribute ##
 
-If you want to translate one of the codes into another language improvement, please follow the steps below:
+If you want to translate one of the codes into another language improvement, please follow this steps:
 
-**Before** you submit a pull request, please be sure you have done these steps:
 1. Fork the _Code example_ repository, if you haven't already.
 2. Create a new branch from the master (if you use git-flow, please do a `git flow hotfix start/finish` or `git flow feature start/finish`)
 3. Make your changes.
@@ -32,14 +31,14 @@ If you want to translate one of the codes into another language improvement, ple
 
 ## Thanks! ##
 
-A very big thanks goes to @DirtyHairy :bow: and my other colleagues at @mayflower for being so kind to validate my code so far. :sunglasses:. A special thanks and :heart: goes out to @ahaberberger for his corrections to this readme.
+A very big thanks goes to [@DirtyHairy][diha]:bow: and my other colleagues at [@mayflower][mafl] for being so kind to validate my code so far. :sunglasses:. A special thanks and :heart:  goes out to [@ahaberberger][ahab] for his corrections to this readme.
 
 *Always have fun:sunny: in what you're doing and* "DON'T PANIC"…:rocket:
 
 **Enjoy!**
 
 <!-- reference section -->
---------------------------
+
 [md]: https://en.wikipedia.org/wiki/Myth_Directions
 
 [release]: https://github.com/micck/code-examples/releases
@@ -56,3 +55,7 @@ A very big thanks goes to @DirtyHairy :bow: and my other colleagues at @mayflowe
 
 [perv]: https://packagecontrol.io/packages/Perv%20-%20Color%20Scheme
 [sute]: http://www.sublimetext.com/
+
+[diha]: https://github.com/DirtyHairy
+[ahab]: https://github.com/ahaberberger
+[mafl]: https://github.com/mayflower

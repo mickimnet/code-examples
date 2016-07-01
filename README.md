@@ -32,7 +32,7 @@ If you want to translate one of the codes into another language improvement, ple
 
 ## Thanks! ##
 
-A very big thanks goes to @DirtyHairy :bow: and my other colleagues at @mayflower for being so kind to validate my code so far. :sunglasses:.
+A very big thanks goes to @DirtyHairy :bow: and my other colleagues at @mayflower for being so kind to validate my code so far. :sunglasses:. A special thanks and :heart: goes out to @ahaberberger for his corrections to this readme.
 
 *Always have fun:sunny: in what you're doing and* "DON'T PANIC"…:rocket:
 

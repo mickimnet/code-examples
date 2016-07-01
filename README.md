@@ -6,11 +6,11 @@
 
 ## Introduction ##
 
-This repository contains code, style and markup examples, to check syntax highlighters colouring in different editors.
+This repository contains code, style and markup examples, for checking syntax highlighters colouring in different editors.
 
-In my personal opinion, the syntax highlighting for any programming language should look the same for the same `artefacts`.  Therefore, while I was working on the version 1.4 of my [colour scheme/highlighting][perv] for the [Sublime Text][sute] editor, I realized that it if the source code of different languages contains the same `code`.
+In my opinion, syntax highlighting for any programming language should look the same for the same `artefacts`.  Therefore, while working on version 1.4 of my [colour scheme/highlighting][perv] for the [Sublime Text][sute] editor, I realized that it formats code in various languages differently, even if the source code is structurally very similar.
 
-As my knowledge in programming languages is limited and I would like to support more, I published my work so far.
+As my knowledge in programming languages is limited, I published my work so far but I would like to support more languages, so there's more to come. 
 
 ## Update history ##
 

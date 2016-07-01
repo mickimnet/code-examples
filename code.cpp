@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iostream>
 
-namespace fooraum
+namespace objektraum
 {
   class square_klasse
   {
@@ -18,7 +18,7 @@ namespace fooraum
   private:
     const float value_in;
   };
-} // namespace fooraum
+} // namespace objektraum
 
 int calculate_funktion(int x_param, float y_param)
 {
@@ -28,7 +28,7 @@ int calculate_funktion(int x_param, float y_param)
   while (v_out < v_top) {
     v_out += 3;
   }
-  fooraum::square_klasse v_objekt(v_out);
+  objektraum::square_klasse v_objekt(v_out);
   return static_cast<int>(v_objekt.squared_funktion()) + v_nice + x_param;
 }
 

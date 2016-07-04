@@ -31,7 +31,7 @@ If you want to translate one of the codes into another language improvement, ple
 
 ## Thanks! ##
 
-A very big thanks goes to [@DirtyHairy][diha]:bow: and my other colleagues at [@mayflower][mafl] for being so kind to validate my code so far. :sunglasses:. A special thanks and :heart:  goes out to [@ahaberberger][ahab] for his corrections to this readme.
+A very big thanks goes to [@DirtyHairy][diha]:bow: and my other colleagues at [@mayflower][mafl] for being so kind to validate my code so far. :sunglasses:. A special thanks and :heart:  goes out to [@ahaberberger][ahab] for correcting this readme.
 
 *Always have fun:sunny: in what you're doing and* "DON'T PANIC"…:rocket:
 

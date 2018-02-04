@@ -1,7 +1,7 @@
 # Simple Python syntax highlight code
 import math
 
-class SquareKlasse(object) #illegal syntax!
+class SquareKlasse(object): #illegal syntax!
     def __init__(self, value_in):
         self.value_in = value_in
     def squared_funktion(self):

@@ -1,15 +1,15 @@
 // Simple JavaScript syntax highlight code
 var squareKlasse = {
-	squaredFunktion: function(value_in){
+	squaredFunktion: function(value_in) {
 		return value_in * value_in;
 	}
 }
 
-function calculateFunktion(xParam,yParam){
+function calculateFunktion(xParam,yParam) {
 	var vNice = Math.floor(Math.exp(yParam));
 	var vOut = Math.floor(yParam);
 	var vTop = vNice - (vOut + xParam);
-	while (vOut < vTop){
+	while (vOut < vTop) {
 		vOut += 3;
 	}
 	var vObjekt = Object.create(squareKlasse);

@@ -9,7 +9,7 @@
 About the series
 ----------------
 
-The Myth Adventures series of **humorous** fantasy novels began in 1978 with "``Another Fine Myth``". Over the next 24 years Bob_ wrote eleven more books in the series. You can see the covers in their currently available editions on our `Cover Gallery <http://mythadventures.net/cover-art/>`_ page.
+The Myth Adventures series of **humorous** fantasy novels began in 1978 with "``Another Fine Myth``". Over the next 24 years Bob_ wrote eleven more books in the series. You can see the covers in their currently available editions on the `Cover Gallery <http://mythadventures.net/cover-art/>`_ page.
 
 Chronology
 ----------
@@ -17,10 +17,6 @@ Chronology
 1. *Another Fine Myth* (1978)
 2. *Myth Conceptions* (1980)
 3. *Myth Directions* (1982)
-
-::
-  In 2003, Bob started working with Jody Lynn Nye, with whom he had written one previous novel, "``License Invoked``" (Baen Books, 2001).
-    Since then, Bob and Jody have written six more Myth Adventures novels and nine short stories.
 
 +-------------------+-----------------------------+
 |     Publishers    |         Bookbinding         |
@@ -33,14 +29,9 @@ Chronology
 +-------------------+-----------------------------+
 | Wildside Press    |       trade paperback       |
 +-------------------+-----------------------------+
-
-.. code:: python
-    import random
-    class CardGame(object):
-        NB_CARDS = 32
-        def __init__(self, cards=5):
-            self.cards=random.sample(range(self.N))
-            print 'ready to play'
+::
+  In 2003, Bob started working with Jody Lynn Nye, with whom he had written one previous novel, "``License Invoked``" (Baen Books, 2001).
+    Since then, Bob and Jody have written six more Myth Adventures novels and nine short stories.
 
 Todo
 ~~~~
@@ -48,6 +39,14 @@ Todo
 * [x] Check for accuracy
 * [ ] Check ~~strikethrough~~ &amp; source-code
 * [ ] Add more content
+
+.. code:: python
+	import math
+	class SquareKlasse(object)  # illegal syntax!
+    	def __init__(self, value_in):
+        	self.value_in = value_in
+    	def squared_funktion(self):
+        	return self.value_in * self.value_in
 
 ------------
 .. _Bob: http://mythadventures.net/robert-asprin-memorial-page/

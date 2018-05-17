@@ -1,0 +1,23 @@
+{
+  "nickName": "Aahz",
+  "fullName": "Aahzmandius",
+  "isAlive": true,
+  "age": 423,
+  "address": {
+    "streetAddress": "Bezel's Shop",
+    "city": "New York",
+    "dimension": "Perv"
+  },
+  "phoneNumbers": [
+    {
+      "type": "D-Hopper",
+      "number": "313 555-4565"
+    },
+    {
+      "type": "Referral",
+      "number": "404 555-3212"
+    }
+  ],
+  "children": ["Guido", "Nunzio"],
+  "spouse": "Jody Lynn Nye"
+}

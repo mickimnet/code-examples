@@ -4,18 +4,18 @@
   "isAlive": true,
   "age": 423,
   "address": {
-    "streetAddress": "Bezel's Shop",
-    "city": "New York",
+    "streetAddress": "Bezel Shop",
+    "city": "Next Fork",
     "dimension": "Perv"
   },
   "phoneNumbers": [
     {
       "type": "D-Hopper",
-      "number": "313 555-4565"
+      "number": "313-555-4565"
     },
     {
       "type": "Referral",
-      "number": "404 555-3212"
+      "number": "404-555-3212"
     }
   ],
   "children": ["Guido", "Nunzio"],

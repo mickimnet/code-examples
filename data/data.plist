@@ -14,9 +14,9 @@
 	<key>address</key>
 	<dict>
 		<key>streetAddress</key>
-		<string>Bezel's Shop</string>
+		<string>Bezel Shop</string>
 		<key>city</key>
-		<string>New York</string>
+		<string>Next Fork</string>
 		<key>dimension</key>
 		<string>Perv</string>
 	</dict>
@@ -26,13 +26,13 @@
 			<key>type</key>
 			<string>D-Hopper</string>
 			<key>number</key>
-			<string>313 555-4565</string>
+			<string>313-555-4565</string>
 		</dict>
 		<dict>
 			<key>type</key>
 			<string>Referral</string>
 			<key>number</key>
-			<string>404 555-3212</string>
+			<string>404-555-3212</string>
 		</dict>
 	</array>
 	<key>children</key>

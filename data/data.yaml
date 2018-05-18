@@ -4,9 +4,9 @@ fullName: Aahzmandius
 isAlive: true
 age: 423
 address:
-    streetAddress: Bezel Shop
-    city: Next Fork
-    dimension: Perv
+  streetAddress: Bezel Shop
+  city: Next Fork
+  dimension: Perv
 phoneNumbers:
   - type: D-Hopper
     number: 313-555-4565
